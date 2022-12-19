@@ -1,6 +1,6 @@
 # ZNotify
 
-English | [中文](./README.zh.md)
+English | [中文](https://github.com/ZNotify/.github/blob/master/profile/README.zh.md)
 
 ZNotify is a project that allows you to send notifications to yourself across multiple platforms, including the Web, Android, and Windows.
 

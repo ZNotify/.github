@@ -1,6 +1,6 @@
 # ZNotify
 
-[English](./README.md) | 中文
+[English](https://github.com/ZNotify/.github/blob/master/profile/README.md) | 中文
 
 ZNotify 是一个允许你在多个平台上向自己发送通知的项目，包括 Web、Android 和 Windows。
 
