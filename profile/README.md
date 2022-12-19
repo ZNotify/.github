@@ -1,8 +1,8 @@
 # ZNotify
 
-ZNotify is a project that allows you to send notifications to yourself across multiple platforms, including the Web, Android, and Windows.
+English | [中文](./README.zh.md)
 
-ZNotify prefers to use messaging services provided by the platforms themselves, such as the Web Push API, Google Cloud Messaging, and Microsoft Push Notification Service. This allows for a more seamless experience, and allows for notifications to be sent even when the app is not running.
+ZNotify is a project that allows you to send notifications to yourself across multiple platforms, including the Web, Android, and Windows.
 
 ZNotify is currently in development.
 
@@ -55,8 +55,6 @@ Contributions are welcome! Please submit a pull request or open an issue.
 ## License
 
 Different parts of ZNotify are licensed under different licenses. See the `LICENSE` file in each repository for more information.
-
-All code is provided without warranty. Use at your own risk.
 
 
 
